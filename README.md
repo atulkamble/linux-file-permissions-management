@@ -1,7 +1,3 @@
-Great request, Atul — let’s build this out cleanly with **Linux commands** and examples for each section you listed, along with brief explanations where needed. You can run this on any Linux server or VM for practice.
-
----
-
 # 📦 Linux File Permissions, Ownership & Users Management Cheat Sheet
 
 ---
@@ -219,5 +215,3 @@ sudo -u atul ls -l file.txt
 * ACL for fine-grained control
 
 ---
-
-Would you like me to package this into a **Markdown README** or a shell script as well? 📄⚙️
